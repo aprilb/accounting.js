@@ -1,0 +1,10 @@
+{
+  "name": "accounting",
+  "version": "0.4.2",
+  "author": "Open Exchange Rates <info@openexchangerates.org> (https://www.openexchangerates.org)",
+  "description": "number, money and currency formatting library",
+  "main": "accounting.js",
+  "scripts": [
+    "accounting.js"
+  ]
+}
